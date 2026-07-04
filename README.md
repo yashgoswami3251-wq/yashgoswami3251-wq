@@ -83,18 +83,9 @@ Built with:
 # 📊 GitHub Analytics
  
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashgoswami3251-wq&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoswami3251-wq&layout=compact&theme=tokyonight"/>
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgoswami3251-wq&theme=tokyonight"/>
-</p>
----
- 
-# 🏆 GitHub Trophies
- 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashgoswami3251-wq&theme=tokyonight&row=1&column=7"/>
 </p>
 ---
  
@@ -125,8 +116,8 @@ Python       ████████░░ 80%
  
 # 💡 Developer Quote
  
-> "First, solve the problem. Then, write the code."
-— John Johnson
+ "Code is like humor. When you have to explain it, it's bad."
+— Cory House
  
 ---
  
@@ -151,3 +142,4 @@ Python       ████████░░ 80%
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
+ # In this code top right image i want diiferent image and do not any other give return full code
