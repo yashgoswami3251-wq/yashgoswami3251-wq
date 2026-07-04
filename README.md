@@ -1,18 +1,153 @@
-# 💫 About Me:
-🔭 I'm currently working on<br><br>Building Flutter apps as personal projects — exploring UI design, state management, and making cross-platform mobile apps.<br><br>👥 I'm looking to collaborate on<br><br>Flutter or Dart based open source projects, college mini-projects, or any mobile app idea I can contribute to and grow with.<br><br>🤝 I'm looking for help with<br><br>Advanced Flutter concepts like state management (Provider / Riverpod / Bloc), REST API integration, and Firebase setup.<br><br>🌱 I'm currently learning<br><br>Flutter & Dart — building cross-platform mobile apps, along with core CS subjects in my B.Tech 5th semester.<br><br>💬 Ask me about<br><br>Flutter basics, my app-building journey, B.Tech life, or how I'm balancing academics with learning mobile development!<br><br>⚡ Fun fact<br><br>I'm a B.Tech 5th sem student who codes apps in Flutter — because why wait to graduate to start building real things! 📱🚀
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_goswami_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yashgiri Gauswami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashgoswami3251@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Yashgoswami&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Yashgoswami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yashgoswami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<h1 align="center">👋 Hi, I'm Gauswami Yashgiri Ashokgiri</h1>
+<h3 align="center">
+📱 Flutter Developer | 💻 Application Developer | 🌱 Lifelong Learner
+</h3>
+ 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Java+%7C+Python+%7C+JavaScript;Building+Cross-Platform+Apps;Learning+React+JS+%2B+SQL;Application+Development+Enthusiast" />
+</p>
 ---
-[![](https://komarev.com/ghpvc/?username=Yashgoswami&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 🚀 About Me
+ 
+🔭 Currently building **Cross-Platform Mobile Applications with Flutter**
+🌱 Learning **React JS, Advanced SQL & Modern Web Development**
+👯 Looking to collaborate on **Application Development Projects**
+🤝 Interested in **Mobile App Architecture & Full Stack Development**
+ 
+💬 Ask me about:
+- Flutter & Dart
+- Java
+- Python
+- JavaScript
+- React JS
+- SQL
+⚡ Fun Fact:
+> I enjoy turning ideas into fully functional mobile and web applications.
+ 
+---
+ 
+# 🛠️ Tech Stack
+ 
+### 📱 Mobile & App Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+### ⚙️ Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+### 🔧 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+</p>
+---
+ 
+# 🎯 2026 Goals
+ 
+- ✅ Master Flutter App Development
+- ✅ Strengthen Java & Python Fundamentals
+- 🔄 Learn React JS
+- 🔄 Master SQL & Database Design
+- 🔄 Build 10+ Applications
+- 🔄 Contribute to Open Source
+---
+ 
+# 🚀 Featured Projects
+ 
+## 📱 Flutter Application Project
+Features:
+- Cross-Platform UI (Android & iOS)
+- Clean & Responsive Design
+- State Management
+- API Integration
+---
+ 
+## 💻 Web Application Project
+Built with:
+- HTML
+- CSS
+- JavaScript
+- React JS
+---
+ 
+# 📊 GitHub Analytics
+ 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashgoswami3251-wq&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoswami3251-wq&layout=compact&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgoswami3251-wq&theme=tokyonight"/>
+</p>
+---
+ 
+# 🏆 GitHub Trophies
+ 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashgoswami3251-wq&theme=tokyonight&row=1&column=7"/>
+</p>
+---
+ 
+# 📈 Contribution Graph
+ 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgoswami3251-wq&theme=tokyo-night"/>
+</p>
+---
+ 
+# 🐍 Contribution Snake
+ 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+---
+ 
+# 📚 Currently Learning
+ 
+```text
+React JS     ███████░░░ 70%
+SQL          ██████░░░░ 60%
+Flutter      █████████░ 90%
+Python       ████████░░ 80%
+```
+ 
+---
+ 
+# 💡 Developer Quote
+ 
+> "First, solve the problem. Then, write the code."
+— John Johnson
+ 
+---
+ 
+# 🌐 Connect With Me
+ 
+<p align="center">
+<a href="https://www.linkedin.com/in/yashgiri-gauswami-401738388">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yashgoswami3251@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+---
+ 
+<p align="center">
+### 👀 Profile Views
+ 
+![](https://komarev.com/ghpvc/?username=yashgoswami3251-wq&style=for-the-badge)
+ 
+</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
