@@ -142,4 +142,3 @@ Python       ████████░░ 80%
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
- # In this code top right image i want diiferent image and do not any other give return full code
