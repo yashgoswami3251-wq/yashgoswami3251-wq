@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Gauswami Yashgiri Ashokgiri</h1>
+<h1 align="center">👋 Hi, I'm Yashgiri Ashokgiri Gauswami </h1>
 <h3 align="center">
 📱 Flutter Developer | 💻 Application Developer | 🌱 Lifelong Learner
 </h3>
